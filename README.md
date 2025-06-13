@@ -2,6 +2,9 @@
 
 A really simple project made by me to learn more about APIs and the fetch function. Design made by me as well! 😊
 
+![Preview](./preview/preview-1.png)
+![Preview](./preview/preview-2.png)
+
 ## Technologies used to make this project
 
 [![Tools](https://skillicons.dev/icons?i=js,html,css)](https://developer.mozilla.org/)
