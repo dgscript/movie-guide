@@ -4,7 +4,7 @@ A really simple project made by me to learn more about APIs and the fetch functi
 
 ## Technologies used to make this project
 
-[![Tools](https://skillicons.dev/icons?i=js,html,css)]
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]
+[![Tools](https://skillicons.dev/icons?i=js,html,css)](https://developer.mozilla.org/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-# Netlify Serverless Functions.
+And Netlify Serverless Functions.
